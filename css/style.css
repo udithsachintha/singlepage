@@ -1,0 +1,189 @@
+.company_name{
+    /* Style for "YOURCOMPAN" */
+
+opacity: 0.71;
+color: #d7794a;
+font-family: Myriad Pro;
+font-size: 25px;
+font-weight: 400;
+line-height: 50px;
+text-transform: uppercase;
+/* Text style for "YOURCOMPAN" */
+letter-spacing: 0.63px;
+}
+.bg_main {
+    background-image: url(../img/bg_main.jpg);
+    /* height: 100%; */
+    background-position: top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* background-size: cover; */
+    /* background-color: #999; */
+}
+.teamtxtdiv{
+    width: 80%;
+}
+.ttcl{
+    color: white;
+    font-size: 16px;
+    margin-top: -20px;
+}
+.teamtxt{
+
+   margin-top: 30px;
+    color: #a95e39;
+    font-family: Vollkorn;
+    font-size: 54px;
+    font-weight: 400;
+  
+    text-transform: uppercase;
+  
+  
+    letter-spacing: 1.8px;
+  
+}
+.teamtxt2{
+ 
+    font-family: Vollkorn;
+    font-size: 54px;
+    font-weight: 400;
+  
+    text-transform: uppercase;
+  
+  
+    letter-spacing: 1.8px;
+}
+
+.para1{
+  
+  color: #000000;
+  font-family: Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25.46px;
+
+
+ letter-spacing: 0.9px;
+
+}
+.para2{
+  
+    color: #000000;
+    font-family: Helvetica;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 25.46px;
+  
+  
+   letter-spacing: 0.9px;
+  
+  }
+.imgdiv{
+ margin-top: 250px;
+}
+p{
+    font-family: Vollkorn;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(255, 255, 255);
+}
+.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
+    color: #101010;
+    font-weight: 400;
+}
+.bg-dark {
+    background-color: #191a1b7a!important;
+}
+
+.cardarea{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.car_btn{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.nxt_img{
+    height: 35px;
+}
+.nxt_img_left{
+    margin-left: 10px;
+}
+.welcome{
+margin-left: -30px;  
+color: #fcf9f7;
+font-family: Baskerville;
+font-size: 72px;
+font-weight: 400;
+line-height: 30px;
+text-transform: uppercase;
+/* Text style for "WELCOME TO" */
+font-family: Baskervville;
+letter-spacing: 1.8px;
+/* Text style for "" */
+font-family: Athelas;
+font-weight: 400;
+letter-spacing: 1.8px;
+}
+.urcname{
+
+color: #d7794a;
+font-family: Baskervville;
+font-size: 40px;
+font-weight: 400;
+line-height: 30px;
+text-transform: uppercase;
+/* Text style for "Y, OURCOMP" */
+letter-spacing: 1.2px;
+}
+.numrow{
+    background-color: #1f3138;
+    color:#89553b;
+}
+.btm{
+    background-color: #1b2c33;
+opacity: 1;
+color: #cdcbcb;
+}
+.sbtm{
+    background-color: #000000;
+    color: #cdcbcb;
+    height: 50px;
+
+}
+.social{
+    margin-top: 4px;
+    height: 35px;
+}
+.numtxt{
+  
+  color: #995437;
+  font-family: Ramaraja;
+  font-size: 77px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+
+}
+.cnt_clr{
+    background-color: #1b2c33;
+    color: #fcf9f7;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+.cnt_marg{
+    margin-top: 10px;
+}
+.cnt_margbtm{
+    margin-bottom: 10px;
+}
+.cnt_right{
+    margin-right: 10px;
+}
+.card{
+    border: none;
+}
+.emptyrow{
+    height: 200px;
+    background-color: bisque;
+}
+
